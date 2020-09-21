@@ -1,6 +1,10 @@
 <p align="center">
 
-  <img width="256" src="https://kirlovon.github.io/Kirlovon/cat.gif">
+  <br>
+  <br>
+  <br>
+  
+  <img width="200" src="https://kirlovon.github.io/Kirlovon/cat.gif">
  
   <br>
   <br>
