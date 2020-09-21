@@ -6,7 +6,7 @@
   <br>
   
   <samp>
-    Yo. I'm <b>Kirill</b>!
+    Yo! I'm <b>Kirill</b>.
     <br> 
     I'm a Frontend Developer and Designer from Latvia.
     <br>
