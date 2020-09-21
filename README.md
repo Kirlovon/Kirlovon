@@ -1,15 +1,12 @@
 <p align="center">
 
-  <br>
-  <br>
-  
   <img width="256" src="https://kirlovon.github.io/Kirlovon/cat.gif">
  
   <br>
   <br>
   
   <samp>
-    Yo. I'm <a href="https://github.com/Kirlovon">Kirill</a>.
+    Yo. I'm <b>Kirill</b>.
     <br> 
     I'm a Frontend Developer and Designer from Latvia.
     <br>
