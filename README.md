@@ -1,5 +1,8 @@
 <p align="center">
 
+  <br>
+  <br>
+  
   <img width="200" src="https://kirlovon.github.io/Kirlovon/cat.gif">
  
   <br>
@@ -14,6 +17,7 @@
     <i>#js</i>, <i>#ts</i>, <i>#react</i>, <i>#node</i>, <i>#deno</i>
   </samp>
   
+  <br>
   <br>
   <br>
   <br>
