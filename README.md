@@ -2,7 +2,6 @@
 
   <br>
   <br>
-  <br>
   
   <img width="200" src="https://kirlovon.github.io/Kirlovon/cat.gif">
  
