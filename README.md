@@ -11,7 +11,7 @@
   <samp>
     <i>Hey!</i> I'm <b>Kirills</b>.
     <br> 
-    I'm a Frontend Developer & Designer from Latvia.
+    I'm a Developer & Designer from Latvia.
     <br>
     <br>
     <i>#js</i>, <i>#ts</i>, <i>#react</i>, <i>#svelte</i>, <i>#node</i>, <i>#deno</i>
