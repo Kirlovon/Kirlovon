@@ -3,7 +3,6 @@
   <br>
   <br>
   <br>
-  <br>
   
   <samp>
     <i>Hey!</i> I'm <b>Kirills</b>.
