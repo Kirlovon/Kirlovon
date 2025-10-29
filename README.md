@@ -2,7 +2,6 @@
 
   <br>
   <br>
-  <br>
   
   <samp>
     <i>Hey!</i> I'm <b>Kirills</b>.
@@ -13,8 +12,6 @@
     <i>#ts</i>, <i>#react</i>, <i>#svelte</i>, <i>#node</i>
   </samp>
   
-  <br>
-  <br>
   <br>
   <br>
 
